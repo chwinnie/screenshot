@@ -1,0 +1,2 @@
+# Screenshot
+simple phantomjs script
